@@ -1,0 +1,6 @@
+{
+  "name": "Call & Go",
+  "description": "Production-ready ride-sharing mobile app for Bangladesh with ride booking, driver mode, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
